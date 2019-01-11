@@ -1,4 +1,4 @@
-body {
+body, html {
     margin: 0;
     padding: 0;
   }
@@ -6,16 +6,18 @@ body {
       background-color: #c6c6c4;
       width: 100vw;
       height: 20vh;
+      padding: 25px;
+    }
       
-  }
+      
 
   .top_jr {
       background-color: aqua;
       width: 100px;
       height: 100px;
-      margin: 20px 20px 20px 20px;
-      
     }
+      
+      
 
     .text {
         font-family: Georgia, 'Times New Roman', Times, serif;
@@ -23,7 +25,7 @@ body {
         font-size: medium;
         margin: 100px;
         letter-spacing: 2px;
-        word-spacing: 2px;
+        word-spacing: 4px;
     }
 
 
