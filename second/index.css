@@ -1,0 +1,106 @@
+body {
+    margin: 0;
+    padding: 25px;
+  }
+  
+  
+  .dad {
+    width: 100%;
+    border: 5px solid black;
+    padding: 10px;
+    box-sizing: border-box ;
+  }
+  
+  .one {
+    height: 150px;
+    width: 50px;
+    background-color: blueviolet;
+    display: inline-block;
+  }
+  .two {
+    height: 200px;
+    width: 400px;
+    display: inline-block;
+    background-color: forestgreen;
+    margin: 0 50px;
+  }
+
+  .three {
+    height: 200px;
+    width: 200px;
+    background-color: rgb(170, 12, 12);
+    border-radius: 150%;
+    display: inline-block;
+    margin: 0 50px;
+  }
+
+  .mom {
+    width: 100%;
+    height: 250px;
+    border: 5px dotted black;
+    padding: 10px;
+    box-sizing: border-box;
+    margin: 5px 5px 5px 5px;
+  }
+
+  .daughter {
+    background-color: #e8dc78;
+    width: 75%;
+    height: 120px;
+    box-shadow: 8px 8px black;
+    margin: 45px auto;
+  }
+
+  .friend {
+    background-color: whitesmoke;
+    box-shadow: 3px 3px #bab9b6;
+    margin: auto;
+    height: 300px;
+    width: 300px;
+    box-sizing: border-box;
+    
+  }
+    .friends {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    letter-spacing: 10px;
+    padding: auto;
+    margin: 20px auto;
+    }
+    
+  
+
+/* body {
+    padding: 25px;
+    margin: 0;
+}
+
+.dad {
+    box-sizing: border-box;
+    background-color: white;
+    border: 2px solid black;
+    height: 200px;
+    width: 100%;
+
+    
+}
+
+.one {
+    display: inline-block;
+    width: 50px;
+    height: 150px;
+    padding: 5px;   
+    background-color: purple; 
+     
+}
+.second {
+    display: inline-block;
+    width: 50px;
+    height: 150px;
+    padding: 5px;   
+    background-color: purple; 
+    margin: 20px 5px;
+} */
+   
+    
+    

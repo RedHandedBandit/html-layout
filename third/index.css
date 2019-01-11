@@ -1,0 +1,57 @@
+body {
+    margin: 0;
+    padding: 0;
+  }
+.top {
+      background-color: #c6c6c4;
+      width: 100vw;
+      height: 20vh;
+      
+  }
+
+  .top_jr {
+      background-color: aqua;
+      width: 100px;
+      height: 100px;
+      margin: 20px 20px 20px 20px;
+      
+    }
+
+    .text {
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        text-align: center;
+        font-size: medium;
+        margin: 100px;
+        letter-spacing: 2px;
+        word-spacing: 2px;
+    }
+
+
+    .blue {
+        background-color: blue;
+        width: 100vw;
+        height: 100px;
+    }
+
+    .aqua {
+        background-color: aqua;
+        width: 100vw;
+        height: 100px;
+    }
+
+    .green {
+        background-color: #63ad61;
+        width: 100vw;
+        height: 100px;
+    }
+
+    .yellow {
+        background-color: #f4fc02;
+        width: 100vw;
+        height: 100px;
+    }
+      
+
+
+     
+      
